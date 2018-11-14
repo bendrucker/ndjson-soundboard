@@ -1,4 +1,4 @@
-# ndjson-soundboard [![Build Status](https://travis-ci.org/bendrucker/ndjson-soundboard.svg?branch=master)](https://travis-ci.org/bendrucker/ndjson-soundboard)
+# ndjson-soundboard [![Build Status](https://travis-ci.org/bendrucker/ndjson-soundboard.svg?branch=master)](https://travis-ci.org/bendrucker/ndjson-soundboard) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/ndjson-soundboard.svg)](https://greenkeeper.io/)
 
 > Play your ndjson logs as sounds you define
 
